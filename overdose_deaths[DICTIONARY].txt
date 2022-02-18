@@ -1,0 +1,16 @@
+Dataset Obtained From:
+
+CDC Wonder
+Current Final Multiple Cause of Death Data
+Multiple Cause of Death, 1999-2020
+
+1999 - 2020: By Bridged race categories (4 groups), age groups (single year age cohorts, 5-year age groups, 10-year age groups, or infant age groups), sex, ethnicity, state, county, underlying cause of death and multiple cause of death (specified in ICD-10 codes, 113 selected causes, 130 selected cause for infants, injury causes, drug / alcohol induced causes), urbanization, year and month of death, weekday of death, place of death, and autopsy status.
+
+https://wonder.cdc.gov/mcd-icd10.html
+
+Group Results by Year and State and County
+
+Measures:
+    Deaths, Population, Crude Rate
+
+Drug-poisoning deaths are defined as having ICD–10 underlying cause-of-death codes X40–X44 (unintentional), X60–X64 (suicide), X85 (homicide), or Y10–Y14 (undetermined intent).
